@@ -1,0 +1,14 @@
+@use "purples";
+@use "base";
+@use "layout";
+
+
+
+.MathJax_Display {
+    margin-top: 0.5rem !important;
+    margin-bottom: 0.5rem !important;
+}
+
+html {
+    scroll-behavior: smooth;
+}
